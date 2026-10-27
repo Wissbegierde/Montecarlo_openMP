@@ -1,0 +1,17 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Informaci\'on del sistema}{2}{section.1}%
+\contentsline {section}{\numberline {2}Parte I. Preguntas te\'oricas}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}I.1. Orden del error y costo de la precisi\'on}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}I.2. Por qu\'e es un problema embarazosamente paralelo}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}I.3. Equivalencia del estimador paralelo}{3}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Parte III. An\'alisis de desempe\~no}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Protocolo experimental}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}III.1. Ley de Amdahl: tres casos}{4}{subsection.3.2}%
+\contentsline {paragraph}{(a) $f=0.98$, $p=8$:}{4}{section*.5}%
+\contentsline {paragraph}{(b) $f=0.90$, $p=8$:}{4}{section*.6}%
+\contentsline {paragraph}{(c) $f=0.98$, $p\to \infty $:}{4}{section*.7}%
+\contentsline {subsection}{\numberline {3.3}III.2. Estimacion de f y metrica de Karp-Flatt}{4}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}III.3. Comparaci\'on del speedup}{5}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}III.4. Predicci\'on con 64 n\'ucleos}{5}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}III.5. Argumento de Gustafson}{6}{subsection.3.6}%
+\contentsline {section}{\numberline {A}Bit\'acora de uso de IA}{7}{appendix.A}%
